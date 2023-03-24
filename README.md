@@ -19,5 +19,4 @@ La couche Contrôleur : Cette couche fait la liaison entre la couche Vue et la c
 
 # Architecture JavaEE
 L'architecture d'un projet Java EE peut varier en fonction des besoins spécifiques de l'application et des choix de conception des développeurs. Cependant, la plupart des projets Java EE suivent le modèle L'architecture MVC pour une séparation claire des responsabilités et une meilleure maintenabilité du code.
-# Vidéo Demonstratif 
-https://drive.google.com/drive/my-drive
+
